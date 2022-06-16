@@ -1,0 +1,168 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_natural_2015_thumb_01_ad8f5886-5713-4322-a77b-7979818fe9d2_540x.jpg?v=1595467603",
+            "name": "Utility Bifold",
+            "compName":"TANNER GOODS",
+            "price":125
+        },
+        {
+            "id":2,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Classic-Belt-Cognac-Stainless-Thumb_360x.jpg?v=1648151092",
+            "name": "Classic Belt - Cognac",
+            "compName":"TANNER GOODS",
+            "price":115
+        },
+        {
+            "id":3,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Mazama-Standard-Mug-Sandstone_360x.jpg?v=1650000370",
+            "name": "Standard Mug",
+            "compName":"MAZMA",
+            "price":36
+        },
+        {
+            "id":4,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_natural_2020_thumb_01_360x.jpg?v=1629492883",
+            "name": "Journeyman - Natural",
+            "compName":"TANNER GOODS",
+            "price":85
+        },
+        {
+            "id":5,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Black-Front_360x.jpg?v=1648152389",
+            "name": "Standard Belt - Black",
+            "compName":"TANNER GOODS",
+            "price":120
+        },
+        {
+            "id":6,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_cognac_2015_thumb_01_d0c96c99-25be-4bae-9eab-297be4d54904_360x.jpg?v=1603228378",
+            "name": "Utility Bifold - Cognac",
+            "compName":"TANNER GOODS",
+            "price":125
+        },
+        {
+            "id":7,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Mazama-Crater-Lake-Mug-Sandstone_360x.jpg?v=1650000939",
+            "name": "Crater Lake Mug",
+            "compName":"MAZMA",
+            "price":38
+        },
+        {
+            "id":8,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_cognac_2020_thumb_01_360x.jpg?v=1629492964",
+            "name": "Journeyman - Cognac",
+            "compName":"TANNER GOODS",
+            "price":85
+        },
+        {
+            "id":9,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/singlewrist_cognac_stainless_2016_thumb_01_16987cf2-4984-4618-a6d9-1ec11655c1c9_360x.jpg?v=1623205543",
+            "name": "Single Wrap Wristband - Cognac",
+            "compName":"TANNER GOODS",
+            "price":35
+        },
+        {
+            "id":10,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Natural-Front_360x.jpg?v=1648152678",
+            "name": "Classic Belt - Natural",
+            "compName":"TANNER GOODS",
+            "price":120
+        },
+        {
+            "id":11,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/travel_natural_2015_thumb_60b733fe-dff9-4d29-8bd3-fbffd92c3775_360x.jpeg?v=1597258101",
+            "name": "Travel Wallet - Natural",
+            "compName":"TANNER GOODS",
+            "price":130
+        },
+
+        {
+            "id":12,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Tanner-Goods-High-Sabaku-Freshener-Thumb-New_360x.jpg?v=1606887893",
+            "name": "Tanner Goods Air Freshner",
+            "compName":"TANNER GOODS",
+            "price":12
+        },
+        {
+            "id":13,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Classic-Belt-Cognac-Stainless-Thumb_360x.jpg?v=1648151092",
+            "name": "Classic Belt - Cognac",
+            "compName":"TANNER GOODS",
+            "price":115
+        },
+        {
+            "id":14,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Mazama-Standard-Mug-Sandstone_360x.jpg?v=1650000370",
+            "name": "Standard Mug",
+            "compName":"MAZMA",
+            "price":36
+        },
+        {
+            "id":15,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_natural_2020_thumb_01_360x.jpg?v=1629492883",
+            "name": "Journeyman - Natural",
+            "compName":"TANNER GOODS",
+            "price":85
+        },
+        {
+            "id":16,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Black-Front_360x.jpg?v=1648152389",
+            "name": "Standard Belt - Black",
+            "compName":"TANNER GOODS",
+            "price":120
+        },
+        {
+            "id":17,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_cognac_2015_thumb_01_d0c96c99-25be-4bae-9eab-297be4d54904_360x.jpg?v=1603228378",
+            "name": "Utility Bifold - Cognac",
+            "compName":"TANNER GOODS",
+            "price":125
+        },
+        {
+            "id":18,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Mazama-Crater-Lake-Mug-Sandstone_360x.jpg?v=1650000939",
+            "name": "Crater Lake Mug",
+            "compName":"MAZMA",
+            "price":38
+        },
+        {
+            "id":19,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/journeyman_cognac_2020_thumb_01_360x.jpg?v=1629492964",
+            "name": "Journeyman - Cognac",
+            "compName":"TANNER GOODS",
+            "price":85
+        },
+        {
+            "id":20,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/singlewrist_cognac_stainless_2016_thumb_01_16987cf2-4984-4618-a6d9-1ec11655c1c9_360x.jpg?v=1623205543",
+            "name": "Single Wrap Wristband - Cognac",
+            "compName":"TANNER GOODS",
+            "price":35
+        },
+        {
+            "id":21,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Natural-Front_360x.jpg?v=1648152678",
+            "name": "Classic Belt - Natural",
+            "compName":"TANNER GOODS",
+            "price":120
+        },
+        {
+            "id":22,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/travel_natural_2015_thumb_60b733fe-dff9-4d29-8bd3-fbffd92c3775_360x.jpeg?v=1597258101",
+            "name": "Travel Wallet - Natural",
+            "compName":"TANNER GOODS",
+            "price":130
+        },
+
+        {
+            "id":23,
+            "imageSrc": "https://cdn.shopify.com/s/files/1/0044/9802/products/Tanner-Goods-High-Sabaku-Freshener-Thumb-New_360x.jpg?v=1606887893",
+            "name": "Tanner Goods Air Freshner",
+            "compName":"TANNER GOODS",
+            "price":12
+        }
+        
+    ]
+}
