@@ -1,4 +1,5 @@
 import React from 'react'
+import Products from '../components/Products'
 import style from "./mazmawares.module.css"
 const MazmaWares = () => {
   return (
@@ -9,6 +10,10 @@ const MazmaWares = () => {
           <p>TANNER GOODS</p>
           <h1>Ceramic Mug's</h1>
         </div>
+      </div>
+      <div className={style.productDiv}>
+        <h1>Products</h1>
+        <Products></Products>
       </div>
     </div>
   )

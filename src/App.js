@@ -14,6 +14,8 @@ import Aboutus from "./pages/Aboutus"
 import Faq from "./pages/Faq"
 import Footer from './components/Footer';
 import ContactUs from './pages/ContactUs';
+import SingleProduct from './components/SingleProduct';
+import Error404 from './pages/Error404';
 function App() {
   return (
     <div className="App">
@@ -30,6 +32,8 @@ function App() {
         <Route path='/about' element={<Aboutus></Aboutus>}></Route>
         <Route path='/faq' element={<Faq></Faq>}></Route>
         <Route path='/contact' element={<ContactUs></ContactUs>}></Route>
+        <Route path='/product/:id' element={<SingleProduct></SingleProduct>}></Route>
+        <Route path="/error" element={<Error404/>}></Route>
       </Routes>
       <Footer></Footer>
     </div>

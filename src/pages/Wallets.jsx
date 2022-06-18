@@ -1,4 +1,5 @@
 import React from 'react'
+import Products from '../components/Products'
 import style from "./wallets.module.css"
 const Wallets = () => {
   return (
@@ -9,6 +10,10 @@ const Wallets = () => {
           <p>TANNER GOODS</p>
           <h1>Wallets</h1>
         </div>
+      </div>
+      <div className={style.productDiv}>
+        <h1>Products</h1>
+        <Products></Products>
       </div>
     </div>
   )

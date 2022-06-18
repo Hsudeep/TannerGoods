@@ -1,0 +1,25 @@
+.productsDiv{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    font-size: 15px;
+
+}
+.productsDiv img{
+    height: 280px;
+    width: 280px;
+}
+.productsDiv h1{
+    font-size: 16px;
+}
+.singleProBtn{
+    height: 30px;
+    width: 150px;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: #c69c6d;
+    margin-bottom: 20px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+}

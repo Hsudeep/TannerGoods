@@ -1,4 +1,5 @@
 import React from 'react'
+import Products from '../components/Products'
 import style from "./bags.module.css"
 
 const Bags = () => {
@@ -10,6 +11,10 @@ const Bags = () => {
           <p>TANNER GOODS</p>
           <h1>Bags</h1>
         </div>
+      </div>
+      <div className={style.productDiv}>
+        <h1>Products</h1>
+        <Products></Products>
       </div>
     </div>
   )
