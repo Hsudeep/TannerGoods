@@ -1,4 +1,4 @@
-# Start the JSON SERVER First.
+
 # Start the JSON SERVER First.
 # Getting Started with Create React App
 
